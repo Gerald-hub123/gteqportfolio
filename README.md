@@ -1,2 +1,2 @@
 # gteqportfolio
-this is my fast draft for  gteq solutions portfolio
+this is my first draft for  gteq solutions portfolio
